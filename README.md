@@ -74,6 +74,9 @@ CSS Hints:
 * Google how to make text all capital using CSS. This style rule should be applied to the paragraph tag.
 * Article elements should have a black dotted border of 5 pixels, and a margin of 5 pixels.  
 
+Extension:  
+* Grab a more interesting font from google! 
+
 ![Zed the Alien](assets/zed.png)  
 
 
