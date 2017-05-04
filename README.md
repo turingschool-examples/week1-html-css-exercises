@@ -7,7 +7,7 @@ As always, we will throw in some curveballs that we haven't talked about yet. Ta
 
 ### Rules
 1. Complete each mini challenge.
-  * You are welcome to use [codepen](http://www.codepen.io) for this, although you are strongly encouraged to create a directory on your computer and start getting used to building things in Atom instead.
+  * You are strongly encouraged to create a directory on your computer and start getting used to building things in Atom, but you are also welcome to use [codepen](http://www.codepen.io) for this, although  instead.
   * An additional benefit of using Atom is that you'll have some examples to reference for the rest of the mod locally on your computer.  
 
 
@@ -99,7 +99,7 @@ Additional Requirements:
 * All input fields should have an `id`, `type`, and a `name`.
 
 CSS Hints:
-* The background color of the fieldsets should be `#f4f4f4`, with a 1px solid border of `#aaa`.
+* The background color of the fieldsets should be `#f4f4f4`, with a 1px solid border of `#aaa`, and a border-radius of 10px.
 * Fieldsets should have a top and bottom margin, but no side margin.
 * The form should be 80% wide, and centered on the page.
 * The input fields should have no border, with some space between the label and the input field and a some padding.
@@ -108,14 +108,16 @@ CSS Hints:
 ![Block Party Form](assets/block-party-form.png)
 
 #### IDs and Classes
-Using only divs, match the following mock up. Because your elements are unique you'll need to use classes and ids so your css knows what to target.
+Using only divs, match the following mock up.  
+Because we are only using divs, you'll need to add classes and ids so your css knows what to target.  
 
 CSS Hints:  
-* Each box should be 150px by 150px.
-* You can use english rainbow colors here( `red`, `orange`, `green`..etc)- or feel free to get weird with it.
-* All of the boxes with a dotted border should have a class of `dotted`. The border should be 3 pixels, dotted, and the color `#6eb8d4`
-* All of the boxes with a solid border should have a class of `solid`. The border should be 3 pixels, solid, and black.
-* Each of the colored boxes should be relatively positioned 50 pixels further from the top than the previous box.
+* All divs should be 150px by 150px.
+* You can use english rainbow colors here ( `red`, `orange`, `green`..etc)- or feel free to get weird with it.
+* All of the divs with a dotted border should have a class of `dotted`. The border should be 3 pixels, dotted, and the color `#6eb8d4`
+* All of the divs with a solid border should have a class of `solid`. The border should be 3 pixels, solid, and black.
+* Each of the colored divs should be relatively positioned 50 pixels further from the top than the previous box.  
+  - ie: the div with an id of `box-1` will have a relative top position of 0px. `box-2` will have a relative top position of 50px, `box-3` will have a relative top position of 100px..etc.
 * The black box should be absolutely positioned 0px from the right.
 
 ![Boxes](assets/boxes.png)
