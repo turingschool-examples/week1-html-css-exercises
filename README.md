@@ -34,7 +34,7 @@ Elements you'll need (in no particular order):
 * a DTD (Doctype Declaration)
 * `<body>`
 * `<head>`
-* `<title`
+* `<title>`
 
 Extension:  
 * Create a `style.css` file in your project directory and link to that file in the head of your document.  
