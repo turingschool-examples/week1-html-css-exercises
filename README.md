@@ -75,7 +75,7 @@ CSS Hints:
 * Article elements should have a black dotted border of 5 pixels, and a margin of 5 pixels.  
 
 Extension:  
-* Grab a more interesting font from google! 
+* Grab a more interesting font from google!
 
 ![Zed the Alien](assets/zed.png)  
 
@@ -93,6 +93,10 @@ Elements allowed/required:
 * checkbox
 * submit button
 * fieldset
+
+Additional Requirements:  
+* All labels should have a `for` attribute.
+* All input fields should have an `id`, `type`, and a `name`.
 
 CSS Hints:
 * The background color of the fieldsets should be `#f4f4f4`, with a 1px solid border of `#aaa`.
