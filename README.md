@@ -20,7 +20,9 @@ As always, we will throw in some curveballs that we haven't talked about yet. Ta
   - If google fails you, or the search results are unclear, **ask your neighbor**! Then ask your other neighbor! Then ping your channel in slack!
   - **Ask Robbie**.
 
-### Challenges
+_____
+
+## Challenges
 
 #### HTML Skeleton
 From scratch, create the template needed to start building an HTML page.  
